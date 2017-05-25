@@ -15,5 +15,4 @@
 ### Links
 
 - [Read more AMAs](https://github.com/Zuhayer/amas)
-- [Create your own AMA](https://github.com/sindresorhus/Zuhayer/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
